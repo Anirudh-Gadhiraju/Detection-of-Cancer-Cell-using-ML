@@ -17,7 +17,8 @@ The target variable is binary:
 
 0: Benign (non-cancerous cell)
 1: Malignant (cancerous cell)
-Dependencies
+
+
 
 following libraries installed:
 numpy
