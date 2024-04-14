@@ -12,6 +12,7 @@ Cell Smoothness
 Cell Compactness
 Cell Symmetry
 Cell Fractal Dimension
+
 The target variable is binary:
 
 0: Benign (non-cancerous cell)
